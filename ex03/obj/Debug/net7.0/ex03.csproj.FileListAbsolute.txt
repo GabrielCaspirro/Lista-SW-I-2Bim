@@ -1,0 +1,15 @@
+C:\Users\LAB4\Documents\ex03\bin\Debug\net7.0\ex03.exe
+C:\Users\LAB4\Documents\ex03\bin\Debug\net7.0\ex03.deps.json
+C:\Users\LAB4\Documents\ex03\bin\Debug\net7.0\ex03.runtimeconfig.json
+C:\Users\LAB4\Documents\ex03\bin\Debug\net7.0\ex03.dll
+C:\Users\LAB4\Documents\ex03\bin\Debug\net7.0\ex03.pdb
+C:\Users\LAB4\Documents\ex03\obj\Debug\net7.0\ex03.csproj.AssemblyReference.cache
+C:\Users\LAB4\Documents\ex03\obj\Debug\net7.0\ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Documents\ex03\obj\Debug\net7.0\ex03.AssemblyInfoInputs.cache
+C:\Users\LAB4\Documents\ex03\obj\Debug\net7.0\ex03.AssemblyInfo.cs
+C:\Users\LAB4\Documents\ex03\obj\Debug\net7.0\ex03.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Documents\ex03\obj\Debug\net7.0\ex03.dll
+C:\Users\LAB4\Documents\ex03\obj\Debug\net7.0\refint\ex03.dll
+C:\Users\LAB4\Documents\ex03\obj\Debug\net7.0\ex03.pdb
+C:\Users\LAB4\Documents\ex03\obj\Debug\net7.0\ex03.genruntimeconfig.cache
+C:\Users\LAB4\Documents\ex03\obj\Debug\net7.0\ref\ex03.dll
