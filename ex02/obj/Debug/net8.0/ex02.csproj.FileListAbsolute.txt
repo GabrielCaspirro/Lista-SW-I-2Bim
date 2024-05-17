@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Downloads\SW_VScode-main\SW_VScode-main\ex02\bin\Debug\net8.0\ex02.exe
+C:\Users\Gabriel\Downloads\SW_VScode-main\SW_VScode-main\ex02\bin\Debug\net8.0\ex02.deps.json
+C:\Users\Gabriel\Downloads\SW_VScode-main\SW_VScode-main\ex02\bin\Debug\net8.0\ex02.runtimeconfig.json
+C:\Users\Gabriel\Downloads\SW_VScode-main\SW_VScode-main\ex02\bin\Debug\net8.0\ex02.dll
+C:\Users\Gabriel\Downloads\SW_VScode-main\SW_VScode-main\ex02\bin\Debug\net8.0\ex02.pdb
+C:\Users\Gabriel\Downloads\SW_VScode-main\SW_VScode-main\ex02\obj\Debug\net8.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Downloads\SW_VScode-main\SW_VScode-main\ex02\obj\Debug\net8.0\ex02.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Downloads\SW_VScode-main\SW_VScode-main\ex02\obj\Debug\net8.0\ex02.AssemblyInfo.cs
+C:\Users\Gabriel\Downloads\SW_VScode-main\SW_VScode-main\ex02\obj\Debug\net8.0\ex02.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\SW_VScode-main\SW_VScode-main\ex02\obj\Debug\net8.0\ex02.dll
+C:\Users\Gabriel\Downloads\SW_VScode-main\SW_VScode-main\ex02\obj\Debug\net8.0\refint\ex02.dll
+C:\Users\Gabriel\Downloads\SW_VScode-main\SW_VScode-main\ex02\obj\Debug\net8.0\ex02.pdb
+C:\Users\Gabriel\Downloads\SW_VScode-main\SW_VScode-main\ex02\obj\Debug\net8.0\ex02.genruntimeconfig.cache
+C:\Users\Gabriel\Downloads\SW_VScode-main\SW_VScode-main\ex02\obj\Debug\net8.0\ref\ex02.dll
